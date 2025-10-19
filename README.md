@@ -1,0 +1,1 @@
+# app-inventario-privacy
